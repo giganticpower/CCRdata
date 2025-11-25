@@ -1,10 +1,9 @@
-# ACCR
+# CCS
 
-An End-to-end Text Spotting Model for Shipping Container Codes
+End-to-end Shipping Container Code Spotting Based on Visual Sensors for Intelligent Inspection
 
-In this paper, we propose an end-to-end text spotting framework for spotting multi-directional and multi-line container codes in complex scenes.
+In this paper, we propose an end-to-end text spotting framework for spotting multi-directional, including horizontal, vertical, and multi-line (HVM) codes.
 
-
-It will release the dataset of the ACCR soon. The data is collected by us and has been labeled.
+The dataset is released, which is collected by us and has been labeled.
 
 Thanks, authors.
